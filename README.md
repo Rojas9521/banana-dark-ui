@@ -20,14 +20,6 @@ Go to Preferences → Themes → Enable the experimental feature "Acrylic transl
 
 ![Screenshot on macOS](https://github.com/inkdropapp/vibrant-dark-ui/blob/master/img/screenshot-macos.png?raw=true)
 
-### Windows
-
-![Screenshot on Windows](https://github.com/inkdropapp/vibrant-dark-ui/blob/master/img/screenshot-windows.png?raw=true)
-
-### Linux
-
-Not supported.
-
 ## How to build
 
 ```
