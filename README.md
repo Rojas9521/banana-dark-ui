@@ -1,9 +1,15 @@
-# Vibrant Dark UI Theme for Inkdrop
+# Banana Dark UI Theme for Inkdrop
+
+Banana flavoured style theme for Inkdrop.
+
+### Note
+
+This is the UI theme only. Working in other banana UI features soon.
 
 ## Install
 
 ```
-ipm install vibrant-dark-ui
+ipm install banana-dark-ui
 ```
 
 Go to Preferences → Themes → Enable the experimental feature "Acrylic translucent background".
