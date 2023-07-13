@@ -18,13 +18,13 @@ Go to Preferences → Themes → Enable the experimental feature "Acrylic transl
 
 ### macOS
 
-![MacOS Screenshot1](https://github.com/Rojas9521/banana-dark-ui/assets/96710775/42126521-c1cf-4fe3-91e1-f207b689c7c5)
+![MacOS Screenshot1](https://user-images.githubusercontent.com/96710775/253121529-42126521-c1cf-4fe3-91e1-f207b689c7c5.png)
 
-![MacOS Screenshot2](https://github.com/Rojas9521/banana-dark-ui/assets/96710775/e88f2ab4-8ad3-40c2-accd-9acbf514f9dc)
+![MacOS Screenshot2](https://user-images.githubusercontent.com/96710775/253121540-e88f2ab4-8ad3-40c2-accd-9acbf514f9dc.png)
 
-![MacOS Screenshot3](https://github.com/Rojas9521/banana-dark-ui/assets/96710775/f154cc9f-9792-4225-bb2a-4f674bc72708)
+![MacOS Screenshot3](https://user-images.githubusercontent.com/96710775/253121542-f154cc9f-9792-4225-bb2a-4f674bc72708.png)
 
-![MacOS Screenshot4](https://github.com/Rojas9521/banana-dark-ui/assets/96710775/a258be2c-2566-464e-ae6d-a66000ae42cd)
+![MacOS Screenshot4](https://user-images.githubusercontent.com/96710775/253121548-a258be2c-2566-464e-ae6d-a66000ae42cd.png)
 
 ## How to build
 
